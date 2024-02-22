@@ -1,5 +1,5 @@
 # Apta Prasetya Rizky
 
-UI/UX Developer
+ Beginer UI/UX Developer
 
 XII PPLG
